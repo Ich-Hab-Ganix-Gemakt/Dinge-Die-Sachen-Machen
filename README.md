@@ -3,7 +3,7 @@
 
 ## Probleme bei GTA Menus:
 ### "Failed to Inject Image" kann eine von zwei sachen bedeuten:
-  1. Die DLL is kauptt
+  1. Die DLL is kaputt
   2. Der DLL fehlen Windows Funktionen
 
 Erstmal Probieren neu runterzuladen falls das nicht geht: diese schritte machen:
