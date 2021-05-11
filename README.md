@@ -15,10 +15,11 @@ Erstmal Probieren neu runterzuladen falls das nicht geht: diese schritte machen:
   Das X-Force Moneytool nicht weiter empfhelen, ist nähmlich detected.
   
 ### Welches Menu ist gut für welche Kategorie?
-Menu für Trolling: X-force (15€)  Phantom-X (20-25€) Impulse (20-70€)
-Menu für Protections: Cherax (25€)
-Menu für Money/Geld: Fragment (40€)
 
+  1. Menu für Trolling: X-force (15€)  Phantom-X (20-25€) Impulse (20-70€)
+  2. Menu für Protections: Cherax (25€)
+  3. Menu für Money/Geld: Fragment (40€)
+  
 ### Kiddions mit Pfeiltasten benutzen:
   https://bit.ly/2Yvlz0c <- Die config runterladen und in den Ordner mit der Kiddions datei legen.
   
