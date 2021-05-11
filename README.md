@@ -30,6 +30,9 @@ Erstmal Probieren neu runterzuladen falls das nicht geht: diese schritte machen:
 
 ### Warum Kiddions?
   Kiddions läuft External nicht so wie andere Menüs was es schwerer bis zu unmöglich macht das menü zu detecten. Funktionen können aber natürlich weiterhin detected werden.
+  
+### Warum sagt mein Antiviren programm dass das Menu ein virus ist?
+Mod menus Injecten sich in das Spiel was in dem fall  GTA ist, Auf der Art funkionieren gewissen Viren. Aus diesen grund werden unsere Menus als Virus erkannt, es ist leider für viele Menu Programmierer schwer es so zu machen das dies nicht passiert. Also nein die Menu's haben kein Virus, Aber funkionieren wie eins damit es Funktioniert.
 
 ## Probleme mit GTA Online:
 ### Zeitüberschreitung:
