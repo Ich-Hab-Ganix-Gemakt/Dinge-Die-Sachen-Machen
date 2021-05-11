@@ -76,7 +76,7 @@ Wenn Welche Probleme haben, dass das Menü nicht angezeigt wird oder Texturen Fe
 
 ### Browser Download Geblocked:
 Wenn der Download im Browser geblockt wird liegt das entweder am Antiviren programm oder Browser. Geh oben auf die 3 Punkte und dann auf Downloads, da kannst du dann auf Schädliche datei beibehalten klicken
-test2
+
 ## Credits
 ```diff
 + by aki
