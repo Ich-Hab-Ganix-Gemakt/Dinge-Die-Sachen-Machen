@@ -7,9 +7,12 @@
   2. Der DLL fehlen Windows Funktionen
 
 Erstmal Probieren neu runterzuladen falls das nicht geht: diese schritte machen:
-  1. Download desch hier: Visual Studio: https://visualstudio.microsoft.com/downloads/
+  1. Download desch hier: [Visual Studio](https://visualstudio.microsoft.com/downloads/).
   2. Installiert diese dinge im Installer bei Visual Studio 2019 Community Edition (makiert in Gelb):
   ![Screenshot](/vs.png)
+
+### Website um die RID Heraus zu finden
+ [RID Tool](https://rid.itsdevil.com/).
 
 ### Moneytool.dll 
   Das X-Force Moneytool nicht weiter empfhelen, ist nähmlich detected.
@@ -19,9 +22,10 @@ Erstmal Probieren neu runterzuladen falls das nicht geht: diese schritte machen:
   1. Menu für Trolling: X-force (15€)  Phantom-X (20-25€) Impulse (20-70€)
   2. Menu für Protections: Cherax (25€)
   3. Menu für Money/Geld: Fragment (40€)
+  4. Menu Für Unlock all: Paragon (25-40€)
   
 ### Kiddions mit Pfeiltasten benutzen:
-  https://bit.ly/2Yvlz0c <- Die config runterladen und in den Ordner mit der Kiddions datei legen.
+   [Kiddions config](https://bit.ly/2Yvlz0c). <- Die config runterladen und in den Ordner mit der Kiddions datei legen.
   
 ## Injection mit Xenos:
   1. Antiviren Programm ausschalten, wenn immer noch Fehler kommt beim Starten, dann hat er eins ohne es zu wissen
@@ -69,7 +73,7 @@ Schließt den Registry-Editor und startet Windows neu.
 ```
 
 ### SAntivirus Entfernen:
-Malwarebytes von hier downloaden: https://de.malwarebytes.com/mwb-download/thankyou/ und installieren. Lauft einen Quick-Scan und lasst ihn Durchlaufen. Wenn es SAntivirus gefunden hat wird er es entfernen und Neustarten wollen.
+Malwarebytes von hier downloaden:  [Malwarebytes](https://de.malwarebytes.com/mwb-download/thankyou/). und installieren. Lauft einen Quick-Scan und lasst ihn Durchlaufen. Wenn es SAntivirus gefunden hat wird er es entfernen und Neustarten wollen.
 
 ## Q&A Von usern:
 ### Warum sagt mein Antiviren programm dass das Menu ein virus ist?
