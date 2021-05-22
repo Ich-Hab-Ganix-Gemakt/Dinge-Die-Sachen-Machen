@@ -22,7 +22,6 @@ Erstmal Probieren neu runterzuladen falls das nicht geht: diese schritte machen:
   1. Menu für Trolling: [X-force](https://xforce.menu/) (15€)  [Phantom-X](https://phantom-x.info/) (20-25€) [Impulse](https://impulse.one/) (20-70€)
   2. Menu für Protections: [Cherax](https://cherax.vip/) (25€)
   3. Menu für Money/Geld: [Fragment](https://fragmentmenu.com/) (40€)
-  4. Menu Für Unlock all: [Paragon](https://paragoncheats.com/) (25-40€)
   
 ### Kiddions mit Pfeiltasten benutzen:
    [Kiddions config](https://bit.ly/2Yvlz0c). <- Die config runterladen und in den Ordner mit der Kiddions datei legen.
