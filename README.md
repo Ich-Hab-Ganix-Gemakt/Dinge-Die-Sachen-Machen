@@ -1,15 +1,23 @@
 # LucaModzZ Support Informationen
   Willkommen (Test-)Staff, Mods und andere, hier sind alle wichtigen dinge für den Support bei LucaModzZ gelisted.
 
+## GTA Speicherplatz
+Steam: C:\Program Files (x86)\Steam\steamapps\common
+
+Epic Games: C:\Program Files\Epic Games
+
+Social Club: C:\Program Files\Rockstar Games
+
 ## Probleme bei GTA Menus:
 ### "Failed to Inject Image" kann eine von zwei sachen bedeuten:
   1. Die DLL is kaputt
   2. Der DLL fehlen Windows Funktionen
 
 Erstmal Probieren neu runterzuladen falls das nicht geht: diese schritte machen:
-  1. Download desch hier: [Visual Studio](https://visualstudio.microsoft.com/downloads/).
-  2. Installiert diese dinge im Installer bei Visual Studio 2019 Community Edition (makiert in Gelb):
-  ![Screenshot](/vs.png)
+  1. Download desch hier: [Visual Studio](https://support.microsoft.com/de-de/topic/aktuelle-unterst%C3%BCtzte-downloads-f%C3%BCr-visual-c-2647da03-1eea-4433-9aff-95f26a218cc0).
+  2. Dann die 2 Sachen beim Gelb makierten Bereich downloaden & Installieren:
+  ![Screenshot](https://axolotl.club/v1/QBnsruAb93VG1uholt4DShtj6OnxnmhZ5lGxp3mJMpk)
+)
 
 ### Website um die RID Heraus zu finden
  [RID Tool](https://rid.itsdevil.com/).
@@ -22,6 +30,7 @@ Erstmal Probieren neu runterzuladen falls das nicht geht: diese schritte machen:
   1. Menu für Trolling: [X-force](https://xforce.menu/) (15€)  [Phantom-X](https://phantom-x.info/) (20-25€) [Impulse](https://impulse.one/) (20-70€)
   2. Menu für Protections: [Cherax](https://cherax.vip/) (25€)
   3. Menu für Money/Geld: [Fragment](https://fragmentmenu.com/) (40€)
+  4. Bestes Menu overall: [2take1](https://2take1.menu/) (15-120€)
   
 ### Kiddions mit Pfeiltasten benutzen:
    [Kiddions config](https://bit.ly/2Yvlz0c). <- Die config runterladen und in den Ordner mit der Kiddions datei legen.
@@ -89,7 +98,7 @@ Was du beim Modden vermeiden solltest wären Money Drops für dich und andere, �
 2. Eine Möglichkeit schneller Online zu join wäre wenn man zuerst in einer **Invite only Lobby** Joined und dann einer Normalen, aber dies ist unterschiedlich von der Hardware.
 
 ## Sonstige Sachen
-### Menu zeigt nicht an:
+### Menu wird nicht angezeigt:
 Wenn Welche Probleme haben, dass das Menü nicht angezeigt wird oder Texturen Fehlen, sicher gehen, dass bei den Einstellungen unter Grafik DirectX auf 11 Gesetzt ist. Das kann ein Grund dafür sein.
 
 ### Browser Download Geblocked:
