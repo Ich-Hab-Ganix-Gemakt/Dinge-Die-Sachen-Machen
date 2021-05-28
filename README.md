@@ -19,8 +19,8 @@ Erstmal Probieren neu runterzuladen falls das nicht geht: diese schritte machen:
   ![Screenshot](https://axolotl.club/v1/QBnsruAb93VG1uholt4DShtj6OnxnmhZ5lGxp3mJMpk)
 )
 
-### Website um die RID Heraus zu finden
- [RID Tool](https://rid.itsdevil.com/).
+### Website um die SCID Heraus zu finden
+ [SCID Tool](https://rid.itsdevil.com/).
 
 ### Moneytool.dll 
   Das X-Force Moneytool nicht weiter empfhelen, ist nähmlich detected.
@@ -54,7 +54,7 @@ Probier es nochmal oder später nochmal, liegt an Rockstar oder an Geringverdien
 Ist **kein** GTA Online bann, man wurde nur von allen Rockstar (R*) Online Servicen abgeschnitten für 30 Tage.
 
 ### GTA Ban
-Der Account wird reseted und man verliert alles. Nach 2 Bans, kann der Account nicht mehr online spielen. Neue Accounts kann man auf g2g.com, g2a.com, plati.ru, cdkeys.com und auch auf vielen anderen websiten kaufen.
+Der Account wird reseted und man verliert alles. Nach 2 Bans, kann der Account nicht mehr online spielen. Neue Accounts kann man auf [g2g.com](https://www.g2g.com/gta-5-online/account-24309-24312?platform=26020&online=checked&sorting=lowest_price), [g2a.com](https://www.g2a.com/category/games-c189?query=GTA%20V), [plati.ru](https://plati.ru/cat/grand-theft-auto-gta/20884/), [cdkeys.com](https://www.cdkeys.com/pc/games/grand-theft-auto-v-5-gta-5-premium-online-edition-rockstar-social-club-pc) und auch auf vielen anderen websiten kaufen. Für key shops empfiehlt sich [Planetkey](https://www.planetkey.de/gta-v-key-kaufen.html) abzuschecken.
 
 ## Antivirus
 
@@ -96,6 +96,9 @@ Was du beim Modden vermeiden solltest wären Money Drops für dich und andere, �
 ### Gibt es Möglichkeiten schneller in GTA zu Laden?
 1. Wenn du in den **Einstellungen** von GTA geht und dann unter **Speichern und Starten** die **Einstiegsseite** auf Aus zu stellen und bei **Startablauf**  In den Story-Modus laden Auswählen.
 2. Eine Möglichkeit schneller Online zu join wäre wenn man zuerst in einer **Invite only Lobby** Joined und dann einer Normalen, aber dies ist unterschiedlich von der Hardware.
+
+##Cs:go sachen
+###Kommt irgendwann.
 
 ## Sonstige Sachen
 ### Menu wird nicht angezeigt:
