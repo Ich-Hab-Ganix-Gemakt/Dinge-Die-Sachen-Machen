@@ -23,7 +23,7 @@ Erstmal Probieren neu runterzuladen falls das nicht geht: diese schritte machen:
   
 ### Welches Menu ist gut für welche Kategorie?
 
-  1. Menu für Trolling: [X-force](https://xforce.menu/) (15€)  [Phantom-X](https://phantom-x.info/) (20-25€) [Impulse](https://impulse.one/) (20-70€)
+  1. Menu für Trolling: [X-Force](https://xforce.menu/) (15€)  [Phantom-X](https://phantom-x.info/) (20-25€) [Impulse](https://impulse.one/) (20-70€)
   2. Menu für Protections: [Cherax](https://cherax.vip/) (25€)
   3. Menu für Money/Geld: [Illusion](https://www.ilusion-engine.com/home) (20€)  [Fragment](https://fragmentmenu.com/) (40€)
   4. Bestes Menu overall: [2take1](https://2take1.menu/) (15-120€)
@@ -99,7 +99,7 @@ Wenn Welche Probleme haben, dass das Menü nicht angezeigt wird oder Texturen Fe
 
 ## GTA V FiveM:
 ### Allgemeine vorab infos:
-1. Normale Menus kann man **NICHT** in fiveM benutzen
+1. Normale Menus kann man **NICHT** in FiveM benutzen
 2. um LUAs zu laden braucht man ein Executer wovon man aber kein Free nutzen sollte wegen viren gefahr und co
 ### Liste von Executern:
 1.  Eulen executer + cheat (100€)
@@ -108,14 +108,14 @@ Wenn Welche Probleme haben, dass das Menü nicht angezeigt wird oder Texturen Fe
 4.  Desudo (15€)
 
 
-## Cs:go sachen
+## CSGO sachen
 ### Cheats:
 1. **Legit Cheats:** 
 Osiris & Project infinity
 2. **Rage Cheats:**
  Onetapv3 Crack oder Luckychams
 ### Injector:
-1. CZGhost
+1. CSGhost
 2. Sazinjector
 3. CS:Go TM Injector
 4. Cheatsquad Injector
@@ -136,6 +136,6 @@ Wenn der Download im Browser geblockt wird liegt das entweder am Antiviren progr
 - für LucaModzZ
 + original von Barbie
 - Windows Defender Tut von Kamfkeks / HubbaBubba
-- FiveM Info von GKeks
-- Cs:go Info von Oleg
++ FiveM Info von GKeks
+- CSGO Info von Oleg
 ```
