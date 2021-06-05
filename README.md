@@ -17,19 +17,15 @@ Erstmal Probieren neu runterzuladen falls das nicht geht: diese schritte machen:
   1. Download desch hier: [Visual Studio](https://support.microsoft.com/de-de/topic/aktuelle-unterst%C3%BCtzte-downloads-f%C3%BCr-visual-c-2647da03-1eea-4433-9aff-95f26a218cc0).
   2. Dann die 2 Sachen beim Gelb makierten Bereich downloaden & Installieren:
   ![Screenshot](https://axolotl.club/v1/QBnsruAb93VG1uholt4DShtj6OnxnmhZ5lGxp3mJMpk)
-)
 
 ### Website um die SCID Heraus zu finden
  [SCID Tool](https://rid.itsdevil.com/).
-
-### Moneytool.dll 
-  Das X-Force Moneytool nicht weiter empfhelen, ist nähmlich detected.
   
 ### Welches Menu ist gut für welche Kategorie?
 
   1. Menu für Trolling: [X-force](https://xforce.menu/) (15€)  [Phantom-X](https://phantom-x.info/) (20-25€) [Impulse](https://impulse.one/) (20-70€)
   2. Menu für Protections: [Cherax](https://cherax.vip/) (25€)
-  3. Menu für Money/Geld: [Fragment](https://fragmentmenu.com/) (40€)
+  3. Menu für Money/Geld: [Illusion](https://www.ilusion-engine.com/home) (20€)  [Fragment](https://fragmentmenu.com/) (40€)
   4. Bestes Menu overall: [2take1](https://2take1.menu/) (15-120€)
   
 ### Kiddions mit Pfeiltasten benutzen:
@@ -97,12 +93,39 @@ Was du beim Modden vermeiden solltest wären Money Drops für dich und andere, �
 1. Wenn du in den **Einstellungen** von GTA geht und dann unter **Speichern und Starten** die **Einstiegsseite** auf Aus zu stellen und bei **Startablauf**  In den Story-Modus laden Auswählen.
 2. Eine Möglichkeit schneller Online zu join wäre wenn man zuerst in einer **Invite only Lobby** Joined und dann einer Normalen, aber dies ist unterschiedlich von der Hardware.
 
-##Cs:go sachen
-###Kommt irgendwann.
-
 ## Sonstige Sachen
 ### Menu wird nicht angezeigt:
 Wenn Welche Probleme haben, dass das Menü nicht angezeigt wird oder Texturen Fehlen, sicher gehen, dass bei den Einstellungen unter Grafik DirectX auf 11 Gesetzt ist. Das kann ein Grund dafür sein.
+
+## GTA V FiveM:
+### Allgemeine vorab infos:
+1. Normale Menus kann man **NICHT** in fiveM benutzen
+2. um LUAs zu laden braucht man ein Executer wovon man aber kein Free nutzen sollte wegen viren gefahr und co
+### Liste von Executern:
+1.  Eulen executer + cheat (100€)
+2.  Redengine (40€)
+3.  Hammafia (35€)
+4.  Desudo (15€)
+
+
+## Cs:go sachen
+### Cheats:
+1. **Legit Cheats:** 
+Osiris & Project infinity
+2. **Rage Cheats:**
+ Onetapv3 Crack oder Luckychams
+### Injector:
+1. CZGhost
+2. Sazinjector
+3. CS:Go TM Injector
+4. Cheatsquad Injector
+
+### Loader: 
+**Ein Loader sollte man benutzen, da diese meist ein VAC Bypasser haben und man daher auch detected Cheats wie Onetap Crack benutzen kann**
+1. Madloader
+2. Exloader
+3. Darkspy
+4. Cheatsquad Loader
 
 ### Browser Download Geblocked:
 Wenn der Download im Browser geblockt wird liegt das entweder am Antiviren programm oder Browser. Geh oben auf die 3 Punkte und dann auf Downloads, da kannst du dann auf Schädliche datei beibehalten klicken
@@ -113,4 +136,6 @@ Wenn der Download im Browser geblockt wird liegt das entweder am Antiviren progr
 - für LucaModzZ
 + original von Barbie
 - Windows Defender Tut von Kamfkeks / HubbaBubba
+- FiveM Info von GKeks
+- Cs:go Info von Oleg
 ```
