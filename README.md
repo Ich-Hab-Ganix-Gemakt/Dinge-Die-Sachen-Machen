@@ -102,30 +102,26 @@ Wenn Welche Probleme haben, dass das Menü nicht angezeigt wird oder Texturen Fe
 1. Normale Menus kann man **NICHT** in FiveM benutzen
 2. um LUAs zu laden braucht man ein Executer wovon man aber kein Free nutzen sollte wegen viren gefahr und co
 ### Liste von Executern:
-1.  Eulen executer + cheat (100€)
-2.  Redengine (40€)
+1.  Eulen Executer + Cheat (100€)
+2.  RedEngine (40€)
 3.  Hammafia (35€)
 4.  Desudo (20€)
-
 
 ## CSGO sachen:
 ### Cheats:
 1. **Legit Cheats:** 
-Osiris & Project infinity
+Osiris & Project Infinity
 2. **Rage Cheats:**
- Onetapv3 Crack oder Luckychams
+OneTap V3 Crack oder LuckyCharms
 ### Injector:
 1. CSGhost
-2. Sazinjector
-3. CS:Go TM Injector
-4. Cheatsquad Injector
+2. SazInjector
 
 ### Loader:
 **Ein Loader sollte man benutzen, da diese meist ein VAC Bypasser haben und man daher auch detected Cheats wie Onetap Crack benutzen kann**
-1. Madloader
-2. Exloader
-3. Darkspy
-4. Cheatsquad Loader
+1. MadLoader
+2. ExLoader
+3. DarkSpy
 
 ### Browser Download Geblocked:
 Wenn der Download im Browser geblockt wird liegt das entweder am Antiviren programm oder Browser. Geh oben auf die 3 Punkte und dann auf Downloads, da kannst du dann auf Schädliche datei beibehalten klicken
