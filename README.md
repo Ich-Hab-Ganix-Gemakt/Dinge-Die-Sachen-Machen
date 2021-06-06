@@ -25,7 +25,7 @@ Erstmal Probieren neu runterzuladen falls das nicht geht: diese schritte machen:
 
   1. Menu für Trolling: [X-Force](https://xforce.menu/) (15€)  [Phantom-X](https://phantom-x.info/) (20-25€) [Impulse](https://impulse.one/) (20-70€)
   2. Menu für Protections: [Cherax](https://cherax.vip/) (25€)
-  3. Menu für Money/Geld: [Illusion](https://www.ilusion-engine.com/home) (20€)  [Fragment](https://fragmentmenu.com/) (40€)
+  3. Menu für Money/Geld: [Illusion](https://www.ilusion-engine.com/home) (20€) [Delusion](https://communitymods.co.uk/mod-menus/delusion/) (20€)
   4. Bestes Menu overall: [2take1](https://2take1.menu/) (15-120€)
   
 ### Kiddions mit Pfeiltasten benutzen:
