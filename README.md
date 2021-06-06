@@ -113,9 +113,11 @@ Wenn Welche Probleme haben, dass das Menü nicht angezeigt wird oder Texturen Fe
 Osiris & Project Infinity
 2. **Rage Cheats:**
 OneTap V3 Crack oder LuckyCharms
+
 ### Injector:
 1. CSGhost
 2. SazInjector
+3. Xenos (CSGO im -insecure mode starten)
 
 ### Loader:
 **Ein Loader sollte man benutzen, da diese meist ein VAC Bypasser haben und man daher auch detected Cheats wie Onetap Crack benutzen kann**
