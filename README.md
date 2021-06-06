@@ -1,7 +1,7 @@
 # LucaModzZ Support Informationen
   Willkommen (Test-)Staff, Mods und andere, hier sind alle wichtigen dinge für den Support bei LucaModzZ gelisted.
 
-## GTA Speicherplatz
+## GTA Speicherplatz:
 Steam: C:\Program Files (x86)\Steam\steamapps\common
 
 Epic Games: C:\Program Files\Epic Games
@@ -19,7 +19,7 @@ Erstmal Probieren neu runterzuladen falls das nicht geht: diese schritte machen:
   ![Screenshot](https://axolotl.club/v1/QBnsruAb93VG1uholt4DShtj6OnxnmhZ5lGxp3mJMpk)
 
 ### Website um die SCID Heraus zu finden
- [SCID Tool](https://rid.itsdevil.com/).
+ [SCID Tool](https://rid.itsdevil.com/)
   
 ### Welches Menu ist gut für welche Kategorie?
 
@@ -52,7 +52,7 @@ Ist **kein** GTA Online bann, man wurde nur von allen Rockstar (R*) Online Servi
 ### GTA Ban
 Der Account wird reseted und man verliert alles. Nach 2 Bans, kann der Account nicht mehr online spielen. Neue Accounts kann man auf [g2g.com](https://www.g2g.com/gta-5-online/account-24309-24312?platform=26020&online=checked&sorting=lowest_price), [g2a.com](https://www.g2a.com/category/games-c189?query=GTA%20V), [plati.ru](https://plati.ru/cat/grand-theft-auto-gta/20884/), [cdkeys.com](https://www.cdkeys.com/pc/games/grand-theft-auto-v-5-gta-5-premium-online-edition-rockstar-social-club-pc) und auch auf vielen anderen websiten kaufen. Für key shops empfiehlt sich [Planetkey](https://www.planetkey.de/gta-v-key-kaufen.html) abzuschecken.
 
-## Antivirus
+## Antivirus:
 
 ### Windows Defender Deaktiviren
 Kurzzeitig:
@@ -93,7 +93,7 @@ Was du beim Modden vermeiden solltest wären Money Drops für dich und andere, �
 1. Wenn du in den **Einstellungen** von GTA geht und dann unter **Speichern und Starten** die **Einstiegsseite** auf Aus zu stellen und bei **Startablauf**  In den Story-Modus laden Auswählen.
 2. Eine Möglichkeit schneller Online zu join wäre wenn man zuerst in einer **Invite only Lobby** Joined und dann einer Normalen, aber dies ist unterschiedlich von der Hardware.
 
-## Sonstige Sachen
+## Sonstige Sachen:
 ### Menu wird nicht angezeigt:
 Wenn Welche Probleme haben, dass das Menü nicht angezeigt wird oder Texturen Fehlen, sicher gehen, dass bei den Einstellungen unter Grafik DirectX auf 11 Gesetzt ist. Das kann ein Grund dafür sein.
 
@@ -105,10 +105,10 @@ Wenn Welche Probleme haben, dass das Menü nicht angezeigt wird oder Texturen Fe
 1.  Eulen executer + cheat (100€)
 2.  Redengine (40€)
 3.  Hammafia (35€)
-4.  Desudo (15€)
+4.  Desudo (20€)
 
 
-## CSGO sachen
+## CSGO sachen:
 ### Cheats:
 1. **Legit Cheats:** 
 Osiris & Project infinity
@@ -120,7 +120,7 @@ Osiris & Project infinity
 3. CS:Go TM Injector
 4. Cheatsquad Injector
 
-### Loader: 
+### Loader:
 **Ein Loader sollte man benutzen, da diese meist ein VAC Bypasser haben und man daher auch detected Cheats wie Onetap Crack benutzen kann**
 1. Madloader
 2. Exloader
