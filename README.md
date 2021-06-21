@@ -1,7 +1,7 @@
 # LucaModzZ Support Informationen
   Willkommen (Test-)Staff, Mods und andere, hier sind alle wichtigen dinge für den Support bei LucaModzZ gelisted.
 
-## GTA Speicherplatz:
+## GTA Speicherplatz (in den meisten fällen):
 Steam: C:\Program Files (x86)\Steam\steamapps\common
 
 Epic Games: C:\Program Files\Epic Games
@@ -115,15 +115,15 @@ Osiris & Project Infinity
 OneTap V3 Crack oder LuckyCharms
 
 ### Injector:
-1. CSGhost
-2. SazInjector
-3. Xenos (CSGO im -insecure mode starten)
+1. [CSGhost](https://pastebin.com/MSAtBjKm)
+2. [SazInjector](https://discord.gg/saz)
+3. [Xenos](https://github.com/DarthTon/Xenos) (CSGO im -insecure mode starten)
 
 ### Loader:
 **Ein Loader sollte man benutzen, da diese meist ein VAC Bypasser haben und man daher auch detected Cheats wie Onetap Crack benutzen kann**
-1. MadLoader
-2. ExLoader
-3. DarkSpy
+1. [MadLoader](https://madloader.bymynix.xyz/)
+2. [ExLoader](https://exloader.net/)
+3. [DarkSpy](https://anonym.ninja/download/OJFB07WHhqUSbso)
 
 ### Browser Download Geblocked:
 Wenn der Download im Browser geblockt wird liegt das entweder am Antiviren programm oder Browser. Geh oben auf die 3 Punkte und dann auf Downloads, da kannst du dann auf Schädliche datei beibehalten klicken
