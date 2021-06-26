@@ -14,8 +14,12 @@ Social Club: C:\Program Files\Rockstar Games
   2. Der DLL fehlen Windows Funktionen
 
 Erstmal Probieren neu runterzuladen falls das nicht geht: diese schritte machen:
-  1. Download desch hier: [Visual Studio](https://support.microsoft.com/de-de/topic/aktuelle-unterst%C3%BCtzte-downloads-f%C3%BCr-visual-c-2647da03-1eea-4433-9aff-95f26a218cc0).
-  2. Dann die 2 Sachen beim Gelb makierten Bereich downloaden & Installieren:
+  Auf [Visual Studio](https://support.microsoft.com/de-de/topic/aktuelle-unterst%C3%BCtzte-downloads-f%C3%BCr-visual-c-2647da03-1eea-4433-9aff-95f26a218cc0) die 2 Programme duwonloaden wie aufem Screenshot downloaden:
+  
+ 
+   [x86: vc_redist.x86](https://aka.ms/vs/16/release/vc_redist.x86.exe)
+
+   [x64: vc_redist.x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
   ![Screenshot](https://axolotl.club/v1/QBnsruAb93VG1uholt4DShtj6OnxnmhZ5lGxp3mJMpk)
 
 ### Website um die SCID Heraus zu finden
@@ -25,11 +29,11 @@ Erstmal Probieren neu runterzuladen falls das nicht geht: diese schritte machen:
 
   1. Menu für Trolling: [X-Force](https://xforce.menu/) (15€)  [Phantom-X](https://phantom-x.info/) (20-25€) [Impulse](https://impulse.one/) (20-70€)
   2. Menu für Protections: [Cherax](https://cherax.vip/) (25€)
-  3. Menu für Money/Geld: [Illusion](https://www.ilusion-engine.com/home) (20€) [Delusion](https://communitymods.co.uk/mod-menus/delusion/) (20€)
+  3. Menu für Money/Geld: [X-Force](https://xforce.menu/) (15€) [2take1](https://2take1.menu/) (20-120€)
   4. Bestes Menu overall: [2take1](https://2take1.menu/) (15-120€)
   
 ### Kiddions mit Pfeiltasten benutzen:
-   [Kiddions config](https://bit.ly/2Yvlz0c). <- Die config runterladen und in den Ordner mit der Kiddions datei legen.
+   Solltest du Kiddions verwenden wollen, aber kein Numpad haben, musst du dir die Pfeiltasten config herunterladen. [Pfeiltasten config](https://bit.ly/2Yvlz0c) Nachdem du die config heruntergeladen hast, musst du sie in den Ordner mit modest-menu.exe legen.
   
 ## Injection mit Xenos:
   1. Antiviren Programm ausschalten, wenn immer noch Fehler kommt beim Starten, dann hat er eins ohne es zu wissen
@@ -102,22 +106,22 @@ Wenn Welche Probleme haben, dass das Menü nicht angezeigt wird oder Texturen Fe
 1. Normale Menus kann man **NICHT** in FiveM benutzen
 2. um LUAs zu laden braucht man ein Executer wovon man aber kein Free nutzen sollte wegen viren gefahr und co
 ### Liste von Executern:
-1.  Eulen Executer + Cheat (100€)
-2.  RedEngine (40€)
-3.  Hammafia (35€)
+1.  [Eulen Executer + Cheat](https://www.eulencheats.com/) (100€)
+2.  [RedEngine](https://redengine.eu/) (40€)
+3.  [Hammafia](https://hammafia.co/) (35€)
 4.  Desudo (20€)
 
 ## CSGO sachen:
 ### Cheats:
 1. **Legit Cheats:** 
-Osiris & Project Infinity
+[Osiris](https://github.com/danielkrupinski/Osiris) & [Project Infinity](https://project-infinity.cloud/)
 2. **Rage Cheats:**
-OneTap V3 Crack oder LuckyCharms
+OneTap V3 Crack oder [LuckyCharms](https://botlucky.com/)
 
 ### Injector:
 1. [CSGhost](https://pastebin.com/MSAtBjKm)
 2. [SazInjector](https://discord.gg/saz)
-3. [Xenos](https://github.com/DarthTon/Xenos) (CSGO im -insecure mode starten)
+3. [Xenos](https://github.com/DarthTon/Xenos/releases/tag/2.3.2) (CSGO im -insecure mode starten)
 
 ### Loader:
 **Ein Loader sollte man benutzen, da diese meist ein VAC Bypasser haben und man daher auch detected Cheats wie Onetap Crack benutzen kann**
@@ -136,4 +140,5 @@ Wenn der Download im Browser geblockt wird liegt das entweder am Antiviren progr
 - Windows Defender Tut von Kamfkeks / HubbaBubba
 + FiveM Info von GKeks
 - CSGO Info von Oleg
++ bisschen gestohlen von kamfkeks
 ```
