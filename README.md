@@ -54,7 +54,7 @@ Probier es nochmal oder später nochmal, liegt an Rockstar oder an Geringverdien
 Ist **kein** GTA Online bann, man wurde nur von allen Rockstar (R*) Online Servicen abgeschnitten für 30 Tage.
 
 ### GTA Ban
-Der Account wird reseted und man verliert alles. Nach 2 Bans, kann der Account nicht mehr online spielen. Neue Accounts kann man auf [g2g.com](https://www.g2g.com/gta-5-online/account-24309-24312?platform=26020&online=checked&sorting=lowest_price), [g2a.com](https://www.g2a.com/category/games-c189?query=GTA%20V), [plati.ru](https://plati.ru/cat/grand-theft-auto-gta/20884/), [cdkeys.com](https://www.cdkeys.com/pc/games/grand-theft-auto-v-5-gta-5-premium-online-edition-rockstar-social-club-pc) und auch auf vielen anderen websiten kaufen. Für key shops empfiehlt sich [Planetkey](https://www.planetkey.de/gta-v-key-kaufen.html) abzuschecken.
+Der Account wird reseted und man verliert alles. Nach 2 Bans, kann der Account nicht mehr online spielen. Neue Accounts kann man auf [g2g.com](https://www.g2g.com/gta-5-online/account-24309-24312?platform=26020&online=checked&sorting=lowest_price), [plati.ru](https://plati.ru/cat/grand-theft-auto-gta/20884/), [cdkeys.com](https://www.cdkeys.com/pc/games/grand-theft-auto-v-5-gta-5-premium-online-edition-rockstar-social-club-pc) und auch auf vielen anderen websiten kaufen. Für key shops empfiehlt sich [Planetkey](https://www.planetkey.de/gta-v-key-kaufen.html) abzuschecken.
 
 ## Antivirus:
 
