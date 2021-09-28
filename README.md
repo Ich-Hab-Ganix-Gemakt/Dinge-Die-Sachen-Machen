@@ -20,7 +20,7 @@ Erstmal Probieren neu runterzuladen falls das nicht geht: diese schritte machen:
    [x86: vc_redist.x86](https://aka.ms/vs/16/release/vc_redist.x86.exe)
 
    [x64: vc_redist.x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
-  ![Screenshot](QBnsruAb93VG1uholt4DShtj6OnxnmhZ5lGxp3mJMpk)
+  ![Screenshot](QBnsruAb93VG1uholt4DShtj6OnxnmhZ5lGxp3mJMpk.png)
 
 ### Website um die SCID Heraus zu finden
  [SCID Tool](https://rid.itsdevil.com/)
