@@ -114,9 +114,9 @@ Wenn Welche Probleme haben, dass das Menü nicht angezeigt wird oder Texturen Fe
 ## CSGO sachen:
 ### Cheats:
 1. **Legit Cheats:** 
-Osiris ( Am besten über Madloader) & [Project Infinity](https://project-infinity.cloud/csgo-cheats/free-cs-go-cheat-csgo-hack.2/)
+Osiris (Am besten über MadLoader) & [Project Infinity](https://project-infinity.cloud/csgo-cheats/free-cs-go-cheat-csgo-hack.2/)
 2. **Rage Cheats:**
-OneTap V3 Crack oder [LuckyCharms](https://botlucky.com/)
+OTC3 oder OTC2 (OneTap Crack) (mit ExLoader) oder [LuckyCharms](https://botlucky.com/)
 
 ### Injector:
 1. [CSGhost](https://pastebin.com/MSAtBjKm) Oder [CSGhost](https://www.unknowncheats.me/forum/cs-go-releases/454734-csghost-v4-injector-integrated-vac-bypass.html) (Unknowncheats)
